@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Twitter Client</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">m8lw3SQ3JdNzalWgGg85PH3hm</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">etjH9god6xFny4jQ6vj8UFMfw3m4wnuk6VUoV26oAcWKUs9le6</string>
+    <string name="login_to_twitter">Login to twitter</string>
+    <string name="welcome_to_twitti">Welcome to Twitti</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="activity_main_label">Followers List</string>
+    <string name="logout">Logout</string>
+    <string name="dialog_title">Logout</string>
+    <string name="dialog_message">Are you sure you want to logout?</string>
+    <string name="no_internet_connection">No Internet connection</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_main_label">Followers List</string>
+    <string name="logout">Logout</string>
+    <string name="dialog_title">Logout</string>
+    <string name="dialog_message">Are you sure you want to logout?</string>
+    <string name="no_internet_connection">No Internet connection</string>
+</resources>

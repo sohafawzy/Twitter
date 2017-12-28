@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/tw__composer_blue</color>
+    <color name="colorPrimaryDark">@color/tw__composer_blue</color>
+    <color name="colorAccent">@color/tw__composer_white</color>
+    <color name="athens_gray">#e9e9eb</color>
+</resources>
